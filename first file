@@ -1,2 +1,2 @@
-let subject = ['math','computer','economic','urdu','english','islamiyat'];
+let subject = ['math','computer','economic','urdu','english','islamiyat'1 sdlc','2 scmt','oops',];
 console.log(subject);
