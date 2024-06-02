@@ -1,1 +1,4 @@
-let smesterFirst = 
+let semesterFirst = ['calclus','c++','ITS','physics'];
+let semesterSecond = [ 'discreate structure','sldc','scmt','oops'];
+console.log(semesterFirst);
+console.log(semesterSecond);
