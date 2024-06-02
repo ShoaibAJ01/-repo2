@@ -1,2 +1,1 @@
-let subject = ['math','computer','economic','urdu','english','islamiyat'];
-console.log(subject);
+let smesterFirst = 
