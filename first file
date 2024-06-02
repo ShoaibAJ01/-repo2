@@ -1,2 +1,1 @@
-let smester = ['math','computer','economic','english','islamiyat'];
-console.log(smester);
+let smesterFirst = 
