@@ -1,2 +1,3 @@
-let subject = ['math','computer','economic','urdu','english','islamiyat'];
+console.log("my name is muhammad shoaib");
+let subject = ['math', 'computer', 'english'];
 console.log(subject);
