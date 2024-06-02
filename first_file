@@ -1,2 +1,1 @@
-let arr[6] = {"math", "computer", "economics","urdu","english","islamiyat"};
-console.log(arr[0]);
+
