@@ -1,2 +1,4 @@
-let subject = ['math','computer','economic','urdu','english','islamiyat'];
-console.log(subject);
+let smester1 = ['math','computer','economic','english','islamiyat'];
+let smester2 =['1 SDLC','2 SCMT',' 3 OOPs','4 pak study'];
+console.log(smeste1);
+console.log(smeste2);
